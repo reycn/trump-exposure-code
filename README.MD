@@ -68,11 +68,11 @@ F-statistic(proj model): 74.26 on 7 and 204 DF, p-value: < 2.2e-16
 
 ## Desensitization
 
-The data in `data/` is aggregated and does not contain any sensitive information nor violating the terms of usage required by source. It is only used for the purpose of replication the main results.
+Data in are aggregated and do not contain any sensitive information nor violating the terms of usage required by sources.
 
 ## Contact
 
-If you have any questions, please contact our corresponding author, Subhayan Mukerjee; or Rongxin Ouyang, who maintain the repository. Their emails are provided in the paper.
+If you have any questions, please contact our corresponding author, Subhayan Mukerjee; or Rongxin Ouyang, who maintains the repository. Their emails are provided in the paper.
 
 ## Citation
 
