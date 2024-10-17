@@ -91,7 +91,7 @@ F-statistic(proj model): 4.279 on 7 and 204 DF, p-value: 0.0001951
 
 ## Anonymization
 
-The data in `data/` is anonymized (including personal information, source media outlets and so on so forth) and does not contain any sensitive information. It is only used for the purpose of replication the main results.
+The data in `data/` is anonymized and does not contain any sensitive information nor violating the terms of usage required by source. It is only used for the purpose of replication the main results.
 
 ## Contact
 
