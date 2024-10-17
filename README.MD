@@ -72,7 +72,7 @@ Data in are aggregated and do not contain any sensitive information nor violatin
 
 ## Contact
 
-If you have any questions, please contact our corresponding author, Subhayan Mukerjee; or Rongxin Ouyang, who maintains the repository. Their emails are provided in the paper.
+If you have any questions, please contact our corresponding author, **; or **, who maintains the repository. Their emails are provided in the paper.
 
 ## Citation
 
