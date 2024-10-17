@@ -1,5 +1,4 @@
-# Deplatforming Donald Trump Reduced His Media Coverage
-# But Not Audience Engagement
+# Deplatforming Donald Trump Reduced His Media Coverage But Not Audience Engagement
 
 This repository stores the needed data and files for replicating our paper.
 
