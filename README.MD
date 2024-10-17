@@ -17,6 +17,7 @@ This repository stores the needed data and files for replicating our paper.
 3. Run the R-script in `replication.R` to replicate the results, each replication will be commented with its DV and Platform
 
 ## Example Results
+R version: `4.4.1 (2024-06-14)`
 
 ```
 Loading required package: Matrix
@@ -30,6 +31,8 @@ The following objects are masked from ‘package:stats’:
 The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
+
+...
 
 ============= Replicating: Media Coverage / Instagram =============
 
@@ -59,34 +62,8 @@ Multiple R-squared(proj model): 0.7182   Adjusted R-squared: 0.7085
 F-statistic(full model):74.26 on 7 and 204 DF, p-value: < 2.2e-16 
 F-statistic(proj model): 74.26 on 7 and 204 DF, p-value: < 2.2e-16 
 
+...
 
-============= Replicating: Audience Engagement / Instagram =============
-
-Call:
-   felm(formula = eq, data = df) 
-
-Residuals:
-     Min       1Q   Median       3Q      Max 
--0.63513 -0.17905 -0.03191  0.14631  0.93543 
-
-Coefficients:
-             Estimate Std. Error t value Pr(>|t|)    
-(Intercept)   0.71505    0.05213  13.718  < 2e-16 ***
-g             0.02176    0.05415   0.402  0.68819    
-s             0.02998    0.08505   0.353  0.72478    
-l             0.15365    0.06598   2.329  0.02084 *  
-log1p(pres)  14.79041   41.76721   0.354  0.72362    
-log1p(gop)  -24.95734   38.97279  -0.640  0.52265    
-g:s           0.36352    0.11859   3.065  0.00247 ** 
-g:l          -0.03006    0.07834  -0.384  0.70157    
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-Residual standard error: 0.2608 on 204 degrees of freedom
-Multiple R-squared(full model): 0.128   Adjusted R-squared: 0.09812 
-Multiple R-squared(proj model): 0.128   Adjusted R-squared: 0.09812 
-F-statistic(full model):4.279 on 7 and 204 DF, p-value: 0.0001951 
-F-statistic(proj model): 4.279 on 7 and 204 DF, p-value: 0.0001951 
 ```
 
 ## Anonymization
