@@ -1,14 +1,6 @@
-<!--
- * @Author: Rongxin rongxin@u.nus.edu
- * @Date: 2024-10-17 15:58:35
- * @LastEditors: Rongxin rongxin@u.nus.edu
- * @LastEditTime: 2024-10-17 16:46:03
--->
+# Deplatforming Donald Trump Reduced His Media Coverage but Not Audience Engagement
 
-# README
-
-This repository stores the needed data and files for replicating our paper:
-*Deplatforming Donald Trump Reduced His Media Coverage but Not Audience Engagement*.
+This repository stores the needed data and files for replicating our paper.
 
 <img src="./figure/effect.sizes.png" width="300"/>  
 
