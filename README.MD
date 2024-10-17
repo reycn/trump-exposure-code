@@ -66,9 +66,9 @@ F-statistic(proj model): 74.26 on 7 and 204 DF, p-value: < 2.2e-16
 
 ```
 
-## Anonymization
+## Desensitization
 
-The data in `data/` is anonymized and does not contain any sensitive information nor violating the terms of usage required by source. It is only used for the purpose of replication the main results.
+The data in `data/` is aggregated and does not contain any sensitive information nor violating the terms of usage required by source. It is only used for the purpose of replication the main results.
 
 ## Contact
 
